@@ -9,5 +9,4 @@ gsheets.config.js
 package-lock.json
 
 # Typescript built files
-lib/**/*.js
 types/types.js
